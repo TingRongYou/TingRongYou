@@ -45,7 +45,7 @@ I am highly collaborative, detail-oriented, and constantly looking for ways to e
 I am actively seeking **internship or junior-level opportunities** in Software Testing and QA where I can contribute to building high-quality, bulletproof software solutions. 
 
 ## 📫 How to Reach Me
-* **LinkedIn:** [linkedin.com/in/ting-rong-you-945aab3b6]
+* **LinkedIn:** [https://linkedin.com/in/ting-rong-you-945aab3b6]
 * **Email:** [ryting999@gmail.com]
 
 ---
