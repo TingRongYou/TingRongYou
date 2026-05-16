@@ -16,7 +16,7 @@ I'm highly passionate in developing new projects and exploring new technologies.
 
 **Languages:** `Java` | `Python` | `C++` | `Kotlin` | `SQL` | `HTML, CSS`
 
-**Software & IDEs:** `Git` | `GitHub` | `Visual Studio Code` | `Visual Studio 2022` | `Android Studio` | `Netbeans` | `Jupyter Notebook` | `Intellij`
+**Software & IDEs:** `Git` | `GitHub` | `Visual Studio Code` | `Visual Studio 2022` | `Android Studio` | `Netbeans` | `Intellij`
 
 **QA & Testing Automation:** `Katalon Studio` 
 
