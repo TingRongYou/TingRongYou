@@ -40,6 +40,8 @@ I'm highly passionate in developing new projects and exploring new technologies.
 ## 🌱 Currently Exploring
 I am actively seeking **internship or junior-level opportunities** in Software Engineering where I can contribute to building high-quality, bulletproof software solutions. 
 
+---
+
 ## 💻 Projects
 -> [TARUMT Supervisor Selection and Allocation System](https://github.com/TingRongYou/FYPSupervisorSelectionAndAllocationSystem.git) - FYP project that solves manual supervisor selection issue.
 -> [Thermal Punch](https://github.com/TingRongYou/Y2S3ImageProcessing.git) - Exergame utilizing webcam (Image Processing).
@@ -54,6 +56,8 @@ I am actively seeking **internship or junior-level opportunities** in Software E
 -> [FinGuard](https://github.com/TingRongYou/Y2S2CollaborativeDevelopment.git) - A financial management mobile app.
 -> [Nutritional Food Segmentation](https://github.com/TingRongYou/Y2S1ArtificialIntelligence.git) - An unsupervised machine learning web app.
 -> [Obesity Level Prediction](https://github.com/TingRongYou/Y2S1DataScience.git) - Predict obesity level and classify them.
+
+---
 
 ## 📫 How to Reach Me
 * **LinkedIn:** [https://linkedin.com/in/ting-rong-you-945aab3b6]
