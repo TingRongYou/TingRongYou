@@ -1,30 +1,26 @@
 # Hi there, I'm Ting Rong You! 👋
 
-### 🚀 Aspiring QA Engineer | Final-Year Software Engineering (Honours) Student @ TARUMT
+### 🚀 Software Engineer | Final-Year Software Engineering (Honours) Student @ TARUMT
 
-While I have a strong foundation in the complete Software Development Life Cycle (SDLC), my true passion lies in making a system as close to perfection as it can be. I thrive on breaking code efficiently so it can be built back stronger, ensuring the final software is reliable, user-friendly, and completely bug-free. 
-
-I am highly collaborative, detail-oriented, and constantly looking for ways to elevate the end-user experience through rigorous testing and thoughtful design.
+I'm highly passionate in developing new projects and exploring new technologies.
 
 ## 🎯 Field of Interests
-* **Software Testing & Quality Assurance (QA)**
-* **UI/UX Design & Development**
+* **Software Engineering**
+* **Software Testing & Quality Assurance(QA)**
+* **Web Development**
 * **Image Processing**
-* **SDLC Management**
 
 ---
 
 ## 🛠️ Technical Toolkit
 
-**Languages:** `Java` | `Python` | `C++` | `Kotlin` | `SQL` | `HTML`
+**Languages:** `Java` | `Python` | `C++` | `Kotlin` | `SQL` | `HTML, C++`
 
-**QA & Testing Automation:** `Katalon Studio` | `Automated Test Design` | `Test Execution`
+**Software & IDEs:** `Git` | `GitHub` | `Visual Studio Code` | `Visual Studio 2022` | `Android Studio` | `Netbeans` | `Jupyter Notebook` | `Intellij`
 
-**Software & IDEs:** `Git` | `GitHub` | `Visual Studio Code` | `Visual Studio 2022` | `Android Studio` | `Netbeans` | `Jupyter Notebook`
+**QA & Testing Automation:** `Katalon Studio` 
 
-**Design & Architecture:** `Figma` | `Visual Paradigm` | `Canva` | `Human-Computer Interaction (HCI)`
-
-**Advanced Technologies:** `Image Processing` | `Generative AI (Gemini & ChatGPT)` | `Artificial Intelligence` | `Data Science`
+**Design & Architecture:** `Figma` | `Visual Paradigm` | `Canva` 
 
 ---
 
@@ -32,7 +28,7 @@ I am highly collaborative, detail-oriented, and constantly looking for ways to e
 
 **Bachelor's Degree in Software Engineering (Honours)** | *TARUMT*
 * **Current Grade:** 3.9178
-* **Core Coursework:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Database Management, Computer Networks, Internet Security, SDLC.
+* **Core Coursework:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Database Management, Computer Networks.
 * **Specialized Studies:** AI, Data Science, Image Processing, HCI.
 
 **Foundation in Information Technology** | *TARUMT*
@@ -42,7 +38,10 @@ I am highly collaborative, detail-oriented, and constantly looking for ways to e
 ---
 
 ## 🌱 Currently Exploring
-I am actively seeking **internship or junior-level opportunities** in Software Testing and QA where I can contribute to building high-quality, bulletproof software solutions. 
+I am actively seeking **internship or junior-level opportunities** in Software Engineering where I can contribute to building high-quality, bulletproof software solutions. 
+
+## 💻 Projects
+-> [TARUMT Supervisor Selection and Allocation System](https://github.com/TingRongYou/FYPSupervisorSelectionAndAllocationSystem.git)
 
 ## 📫 How to Reach Me
 * **LinkedIn:** [https://linkedin.com/in/ting-rong-you-945aab3b6]
