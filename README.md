@@ -14,7 +14,7 @@ I'm highly passionate in developing new projects and exploring new technologies.
 
 ## 🛠️ Technical Toolkit
 
-**Languages:** `Java` | `Python` | `C++` | `Kotlin` | `SQL` | `HTML, C++`
+**Languages:** `Java` | `Python` | `C++` | `Kotlin` | `SQL` | `HTML, CSS`
 
 **Software & IDEs:** `Git` | `GitHub` | `Visual Studio Code` | `Visual Studio 2022` | `Android Studio` | `Netbeans` | `Jupyter Notebook` | `Intellij`
 
