@@ -31,7 +31,7 @@ I'm highly passionate in developing new projects and exploring new technologies.
 * **Core Coursework:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Database Management, Computer Networks.
 * **Specialized Studies:** AI, Data Science, Image Processing, HCI.
 
-**Foundation in Information Technology** | *TARUMT*
+**Foundation in Computing** | *TARUMT*
 * **Grade:** 3.9598
 * **Highlights:** , Web Development, Emerging Trends in IT, Data Management.
 
