@@ -59,6 +59,8 @@ I am actively seeking **internship or junior-level opportunities** in Software E
 
 -> [GEOSTORY](https://github.com/TingRongYou/FoundationEmergingTrendsInIT.git) - A Geography mobile quiz app that combines education and gaming.
 
+-> [Self Hosted Command Center](https://github.com/TingRongYou/SelfHostedCommandCenter.git) - A dashboard to control my home server (experiment)
+
 -> [Premier ATM System](https://github.com/TingRongYou/Y1S3ComputerOrganizationAndArchitecture.git) - A console-based ATM system build with Assembly language.
 
 -> [Queen Beauty Service Management System](https://github.com/TingRongYou/Y1S1ProblemSolvingAndProgramming.git) - A beauty service business management system.
