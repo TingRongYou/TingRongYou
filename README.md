@@ -6,7 +6,7 @@ I'm highly passionate in developing new projects and exploring new technologies.
 
 ## 🎯 Field of Interests
 * **Software Engineering**
-* * **Cloud Computing**
+* **Cloud Computing**
 * **Software Testing & Quality Assurance(QA)**
 * **Image Processing**
 
