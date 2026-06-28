@@ -6,15 +6,15 @@ I'm highly passionate in developing new projects and exploring new technologies.
 
 ## 🎯 Field of Interests
 * **Software Engineering**
+* * **Cloud Computing**
 * **Software Testing & Quality Assurance(QA)**
-* **Web Development**
 * **Image Processing**
 
 ---
 
 ## 🛠️ Technical Toolkit
 
-**Languages:** `Java` | `Python` | `C++` | `Kotlin` | `SQL` | `HTML, CSS`
+**Languages:** `Java` | `Python` | `C++` | `Kotlin` | `SQL` | `HTML, CSS, JS, PHP`
 
 **Software & IDEs:** `Git` | `GitHub` | `Visual Studio Code` | `Visual Studio 2022` | `Android Studio` | `Netbeans` | `Intellij`
 
@@ -27,9 +27,10 @@ I'm highly passionate in developing new projects and exploring new technologies.
 ## 🎓 Academic Background
 
 **Bachelor's Degree in Software Engineering (Honours)** | *TARUMT*
-* **Current Grade:** 3.9178
-* **Core Coursework:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Database Management, Computer Networks.
-* **Specialized Studies:** AI, Data Science, Image Processing, HCI.
+* **Current Grade:** 3.9123
+* **Core Programming Knowledge:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Database Management, Computer Organization and Architecture (COA).
+* **Core Software Engineering Knowledge:** System Analysis and Design, Software Requirement Engineering, Linux OS & Server, Software Design and Architecture, Computer Networks, Software Testing, Software Quality and Measurement, Software Engineering Ethics and Professionalism, Software Project Management, Software Maintenance, Software Security and Safety.
+* **Specialized Studies:** Human Computer Interaction (HCI), AI, Data Science, Internet Security, Image Processing, Cloud Computing.
 
 **Foundation in Computing** | *TARUMT*
 * **Grade:** 3.9598
@@ -45,7 +46,7 @@ I am actively seeking **internship or junior-level opportunities** in Software E
 ## 💻 Projects
 -> [TARUMT Supervisor Selection and Allocation System](https://github.com/TingRongYou/FYPSupervisorSelectionAndAllocationSystem.git) - FYP project that solves manual supervisor selection issue.
 
--> [Thermal Punch](https://github.com/TingRongYou/Y2S3ImageProcessing.git) - Exergame utilizing webcam (Image Processing).
+-> [Thermal Punch](https://github.com/TingRongYou/Y2S3ImageProcessing.git) - Fighting exergame utilizing webcam (Image Processing).
 
 -> [TypeHigher](https://github.com/TingRongYou/TypeHigher.git) - A 2D typing game with dynamic difficulty.
 
