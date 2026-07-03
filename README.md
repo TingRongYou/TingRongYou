@@ -28,9 +28,9 @@ I'm highly passionate in developing new projects and exploring new technologies.
 
 **Bachelor's Degree in Software Engineering (Honours)** | *TARUMT*
 * **Current Grade:** 3.9123
-* **Core Programming Knowledge:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Database Management, Computer Organization and Architecture (COA).
-* **Core Software Engineering Knowledge:** System Analysis and Design, Software Requirement Engineering, Linux OS & Server, Software Design and Architecture, Computer Networks, Software Testing, Software Quality and Measurement, Software Engineering Ethics and Professionalism, Software Project Management, Software Maintenance, Software Security and Safety.
-* **Specialized Studies:** Human Computer Interaction (HCI), AI, Data Science, Internet Security, Image Processing, Cloud Computing.
+* **Core Programming Knowledge:** `Object-Oriented Programming (OOP)` | `Data Structures & Algorithms (DSA)` | `Database Management` | `Computer Organization and Architecture (COA)`.
+* **Core Software Engineering Knowledge:** `Linux OS & Server` | `Computer Networks` | `System Analysis and Design` | `Software Requirement Engineering` | `Software Design and Architecture` | `Software Testing` | `Software Quality and Measurement` | `Software Engineering Ethics and Professionalism` | `Software Project Management ` | `Software Maintenance` | `Software Security and Safety`.
+* **Specialized Studies:** `Cloud Computing` | `Human Computer Interaction (HCI)` | `Artificial Intelligence (AI)` | `Data Science` | `Internet Security` | `Image Processing`.
 
 **Foundation in Computing** | *TARUMT*
 * **Grade:** 3.9598
@@ -60,7 +60,7 @@ I am actively seeking **internship or junior-level opportunities** in Software E
 
 -> [GEOSTORY](https://github.com/TingRongYou/FoundationEmergingTrendsInIT.git) - A Geography mobile quiz app that combines education and gaming.
 
--> [Self Hosted Command Center](https://github.com/TingRongYou/SelfHostedCommandCenter.git) - A dashboard to control my home server (experiment)
+-> [Self Hosted Command Center](https://github.com/TingRongYou/SelfHostedCommandCenter.git) - A dashboard to control my home server.
 
 -> [Premier ATM System](https://github.com/TingRongYou/Y1S3ComputerOrganizationAndArchitecture.git) - A console-based ATM system build with Assembly language.
 
