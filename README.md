@@ -34,7 +34,7 @@ I'm highly passionate in developing new projects and exploring new technologies.
 
 **Foundation in Computing** | *TARUMT*
 * **Grade:** 3.9598
-* **Highlights:** , Web Development, Emerging Trends in IT, Data Management.
+* **Highlights:**  `Web Development` | `Emerging Trends in IT` | `Data Management`.
 
 ---
 
