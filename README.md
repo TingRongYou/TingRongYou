@@ -20,7 +20,7 @@ I'm highly passionate in developing new projects and exploring new technologies.
 
 **QA & Testing Automation:** `Katalon Studio` 
 
-**Design & Architecture:** `Figma` | `Visual Paradigm` | `Canva` 
+**Design & Architecture:** `Figma` | `Visual Paradigm` | `draw.io` | `Canva` 
 
 ---
 
